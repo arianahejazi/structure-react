@@ -1,0 +1,26 @@
+/* font  */
+@font-face {
+  font-family: 'koolepooshtiFont';
+  font-style: normal;
+  font-weight: normal;
+  src: url('./assets/fonts/public_fonts_Vazir-Light-FD.woff') format('woff'),
+}
+body {
+  font-family: 'koolepooshtiFont'!important;
+}
+body{
+  width: 100%;
+  overflow-x: hidden;
+}
+body , *{
+  margin: 0;
+  color: #282c34;
+}
+
+.App {
+  text-align: center;
+}
+
+
+
+
